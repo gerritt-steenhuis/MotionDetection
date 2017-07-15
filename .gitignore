@@ -103,3 +103,4 @@ ENV/
 /.idea
 .Python
 pip-selfcheck.json
+/.idea
