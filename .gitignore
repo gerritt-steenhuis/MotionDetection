@@ -103,15 +103,3 @@ ENV/
 /.idea
 .Python
 pip-selfcheck.json
-get_env_details
-initialize
-postactivate
-postdeactivate
-postmkproject
-postmkvirtualenv
-preactivate
-predeactivate
-premkproject
-premkvirtualenv
-prermvirtualenv
-
